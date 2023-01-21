@@ -1,0 +1,54 @@
+{
+  "Name": "Thomas",
+  "Age": 34,
+  "Occupation": "Software Developer",
+  "Address": "114 South Buchnan\nBoulevard\nDuke Box 90790\nDurham, NC 27708\n\nPhone: (919) 681-8472\nFax: (919) 681-8472\n",
+  "Hobbies": [
+    "Writing",
+    "Reading",
+    "Cycling"
+  ],
+  "Skills": [
+    {
+      "Programming": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "Databases": [
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "Devops Tools": [
+        {
+          "Configuration Management": [
+            "Ansible",
+            "Puppet"
+          ]
+        },
+        "Git",
+        {
+          "Virtualisation": [
+            {
+              "Docker": [
+                {
+                  "K8S": "50% covered"
+                },
+                {
+                  "Swarm": "90% covered"
+                },
+                "CoreOS"
+              ]
+            },
+            "LXC"
+          ]
+        }
+      ]
+    }
+  ],
+  "IQ": 122.55,
+  "Hike eligible": true
+}
